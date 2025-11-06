@@ -67,19 +67,19 @@
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Desenvolvedor de software / Five Webservices",
+      "period": "2025 - até o momento",
+      "description": "Atuamos com desenvolvimento de smart contracts, integração de DApps, infraestrutura em nuvem e consultoria técnica para empresas que desejam adotar tecnologias descentralizadas."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Desenvolvedor Frontend / Lab Yes!",
+      "period": "2025 - 2025",
+      "description": "Foi um grande prazer fazer parte deste time fantástico e poder aprender um pouco sobre desenvolvimento frontend."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Técnico de DataCenter / Br.Digital",
+      "period": "2021 - 2025",
+      "description": "Responsável técnico pelo principal data center da empresa em Florianópolis."
     }
   ]
 }

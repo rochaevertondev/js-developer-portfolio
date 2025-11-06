@@ -63,6 +63,20 @@ function updateProfessionalExperience(profileData) {
     }).join('')
 }
 
+
+function updateAcademicEducation(profileData) {
+    const academicEducation = document.getElementById('profile.education')
+    academicEducation.innerHTML = profileData.education.map(education => {
+        return `
+            <li>
+                <h3 class="title">${education.name}</h3>
+                <p class="period">${education.period}</p>
+                <p>${education.college}</p>
+            </li>
+        `
+    }).join('')
+}
+
 (async () => {
     const profileData = await fetchProfileData()
     updateProfileInfo(profileData)

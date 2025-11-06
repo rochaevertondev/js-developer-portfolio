@@ -47,13 +47,21 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "LinkProtect - Blockchain",
+      "description": "This project aims to provide a secure and efficient way to protect links using blockchain technology.",
+      "url": "https://github.com/rochaevertondev/linkprotect",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Calculadora.js",
+      "description": "This is a personal project aimed at practicing JavaScript concepts, DOM manipulation, and programming logic. The calculator performs basic mathematical operations in a responsive and interactive way.",
+      "url": "https://github.com/RochaEverton/calculadora.js",
+      "github": true
+    },
+    {
+      "name": "Roleta",
+      "description": "A project developed to simulate a digital roulette wheel, allowing you to draw numbers in a practical and interactive way.",
+      "url": "https://github.com/rochaevertondev/Roleta",
       "github": true
     }
   ],

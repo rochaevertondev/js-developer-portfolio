@@ -74,12 +74,34 @@
     {
       "name": "Desenvolvedor Frontend / Lab Yes!",
       "period": "2025 - 2025",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder aprender um pouco sobre desenvolvimento frontend."
+      "description": "Foi um grande prazer fazer parte deste time fantástico e poder aprender sobre o dia a dia do desenvolvimento frontend."
     },
     {
       "name": "Técnico de DataCenter / Br.Digital",
       "period": "2021 - 2025",
       "description": "Responsável técnico pelo principal data center da empresa em Florianópolis."
+    }
+  ],
+  "education": [
+    {
+      "name": "Graduação em Análise e Desenvolvimento de Sistemas.",
+      "period": "2025 - em progresso",
+      "college": "Gran Faculdade."
+    },
+    {
+      "name": "Pós-Graduação em WEB3.0.",
+      "period": "2024 - 2025",
+      "college": "Descomplica Faculdade."
+    },
+    {
+      "name": "Pós-Graduação em Desenvolvimento Full Stack.",
+      "period": "2023 - 2024",
+      "college": "Descomplica Faculdade."
+    },
+    {
+      "name": "Tecnólogo em Redes de Computadores.",
+      "period": "2020 - 2023",
+      "college": "Centro Universitário Internacional."
     }
   ]
 }

@@ -43,7 +43,7 @@ function updatePortfolio(profileData) {
         return `
             <li>
                 <h3 ${project.github ? 'class="github"' : ''}>${project.name}</h3>
-                <p>${project.description || ''}</p>
+                <p>${project.description}</p>
                 <a href="${project.url}" target="_blank">${project.url}</a>
             </li>
         `
@@ -52,6 +52,7 @@ function updatePortfolio(profileData) {
 
 function updateProfessionalExperience(profileData) {
     const professionalExperience = document.getElementById('profile.professionalExperience')
+    console.log (professionalExperience)
     professionalExperience.innerHTML = profileData.professionalExperience.map(experience => {
         return `
             <li>
@@ -66,7 +67,8 @@ function updateProfessionalExperience(profileData) {
 
 function updateAcademicEducation(profileData) {
     const academicEducation = document.getElementById('profile.education')
-    academicEducation.innerHTML = profileData.education.map(education => {
+    console.log(academicEducation)
+    academicEducation.innerHTML = profileData.academicEducation.map(education => {
         return `
             <li>
                 <h3 class="title">${education.name}</h3>
@@ -85,4 +87,5 @@ function updateAcademicEducation(profileData) {
     updateLanguages(profileData)
     updatePortfolio(profileData)
     updateProfessionalExperience(profileData)
+    updateAcademicEducation(profileData)
 })()

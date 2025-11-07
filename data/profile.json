@@ -47,6 +47,24 @@
   ],
   "portfolio": [
     {
+      "name": "Site - guincho jacson souza",
+      "description": "Site Web responsivo e moderno",
+      "url": "https://guinchojacsonsouza.com.br/",
+      "github": false
+    },
+    {
+      "name": "LinkProtect - Blockchain",
+      "description": "This project aims to provide a secure and efficient way to protect links using blockchain technology.",
+      "url": "https://github.com/rochaevertondev/linkprotect",
+      "github": true
+    },
+    {
+      "name": "LinkProtect - Blockchain",
+      "description": "This project aims to provide a secure and efficient way to protect links using blockchain technology.",
+      "url": "https://github.com/rochaevertondev/linkprotect",
+      "github": true
+    },
+    {
       "name": "LinkProtect - Blockchain",
       "description": "This project aims to provide a secure and efficient way to protect links using blockchain technology.",
       "url": "https://github.com/rochaevertondev/linkprotect",

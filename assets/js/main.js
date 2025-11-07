@@ -52,7 +52,7 @@ function updatePortfolio(profileData) {
 
 function updateProfessionalExperience(profileData) {
     const professionalExperience = document.getElementById('profile.professionalExperience')
-    console.log (professionalExperience)
+    console.log (profileData)
     professionalExperience.innerHTML = profileData.professionalExperience.map(experience => {
         return `
             <li>
@@ -66,8 +66,8 @@ function updateProfessionalExperience(profileData) {
 
 
 function updateAcademicEducation(profileData) {
-    const academicEducation = document.getElementById('profile.education')
-    console.log(academicEducation)
+    const academicEducation = document.getElementById('profile.academicEducation')
+    console.log(profileData)
     academicEducation.innerHTML = profileData.academicEducation.map(education => {
         return `
             <li>
